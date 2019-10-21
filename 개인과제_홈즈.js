@@ -264,7 +264,7 @@ room4.TV.locate(560, 270)
 
 room4.TV.onClick = function() {
 
-	showVideoPlayer("끼룩.mp4") // 비디오 재생
+	showVideoPlayer("끼룩.wmv") // 비디오 재생
 }
 
 
